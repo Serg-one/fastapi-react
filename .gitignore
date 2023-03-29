@@ -1,0 +1,41 @@
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.DS_Store
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+#PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+.pytest_cache/
+
+# Docker
+Dockerfile
+.dockerignore
